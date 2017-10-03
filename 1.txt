@@ -1,0 +1,4 @@
+Git is a distributed version control system.
+Git is free software.
+Tomorrow is the my holiday.
+The harder your life is, the sooner you would grow.
